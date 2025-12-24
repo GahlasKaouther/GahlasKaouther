@@ -12,13 +12,13 @@ Building secure, scalable web applications with clean code and best practices.
 
 ## Frontend Development
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> 
 
 ---
 
 ## Backend Development
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"> <img src="https://img.shields.io/badge/SOA-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="SOA"> <img src="https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white" alt="JEE">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"> <img src="https://img.shields.io/badge/SOA-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="SOA"> <img src="https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white" alt="JEE">
 
 ---
 
@@ -48,7 +48,7 @@ Building secure, scalable web applications with clean code and best practices.
 
 ## UI/UX Design
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/Responsive_Design-7B68EE?style=for-the-badge&logo=design&logoColor=white" alt="Responsive Design">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 ---
 
