@@ -4,6 +4,28 @@
 
 ---
 
+## 🚀 Portfolio de Projets
+Bienvenue sur mon portfolio ! Vous trouverez ici une sélection de mes projets, allant du développement web et mobile à la Data Science et à la Cybersécurité.
+### 🌍 Web & Full-Stack
+* **🩺 MEDILINK** | *Django* : Plateforme médicale avec assistant IA (Chatbot).
+* **🔗 NEXORA** | *MERN* : Réseau social complet (Stories, Amis, Réactions).
+* **📄 Gestion de Factures** | *React* : Système professionnel avec export PDF.
+* **⚡ ElectroNova** | *ASP.NET* : Gestion SAV et suivi des interventions.
+* **🚗 LocationVoitures** | *Java EE* : Gestion de flotte et contrats clients.
+* **🎓 LabTechIT** | *Django* : Système de gestion de formations.
+* **📅 Affectation Auto** | *Django* : Algorithme intelligent pour examens.
+
+### 📱 Mobile (Flutter & Android)
+* **💬 Pulse** | *Flutter* : Réseau social temps réel avec **Assistant Gemini AI**.
+* **🍔 BestMlewi** | *Flutter* : Gestion de commandes et livraison.
+* **🔄 ConvertiX** | *Android Native* : Outil de conversion universel optimisé.
+
+### 📊 Data Science & IA
+* **🏠 Prédiction Location** | *ML* : Prédiction des prix immobiliers en Tunisie.
+* **📈 Business Intelligence** : Tableaux de bord décisionnels sous Power BI.
+
+---
+
 ### 🛠 Langages & Frameworks
 
 #### 💻 Langages
