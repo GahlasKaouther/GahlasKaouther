@@ -1,4 +1,4 @@
-# 💻 Junior Développeur en Systèmes Informatiques
+# 💻 Junior Développeuse en Systèmes Informatiques
 
 Building secure, scalable web applications with clean code and best practices.
 
