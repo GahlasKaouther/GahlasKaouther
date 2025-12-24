@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Portfolio de Projets
-Bienvenue sur mon portfolio ! Vous trouverez ici une sélection de mes projets, allant du développement web et mobile à la Data Science et à la Cybersécurité.
+Vous trouverez ici une sélection de mes projets, allant du développement web et mobile à la Data Science et à la Cybersécurité.
 ### 🌍 Web & Full-Stack
 * **🩺 MEDILINK** | *Django* : Plateforme médicale avec assistant IA (Chatbot).
 * **🔗 NEXORA** | *MERN* : Réseau social complet (Stories, Amis, Réactions).
